@@ -1,0 +1,12 @@
+{
+  "validUser": {
+    "email": "cavoha9013@airychen.com",
+    "password": "T3LmamXsjn@ZY7",
+    "userName": "Ibrahim Zakaria"
+  },
+  "invalidUser": {
+    "email": "invalid@example.com",
+    "password": "Wrong123!"
+  }
+}
+

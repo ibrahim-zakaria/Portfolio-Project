@@ -1,0 +1,4 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","11516","Test Case 10: Verify Subscription in home page","Surefire suite","2026-11-26","passed","2026-11-26","com.AutomationExercise.tests.HomeTests","Surefire test","com.AutomationExercise.tests.HomeTests","verifySubscriptionInHome"
+"","43900","Test Case 5: Register User with existing email","Surefire suite","2026-11-26","failed","2026-11-26","com.AutomationExercise.tests.RegisterTest","Surefire test","com.AutomationExercise.tests.RegisterTest","registerTest"
+"","16385","Test Case 13: Verify Product quantity in Cart","Surefire suite","2026-11-26","passed","2026-11-26","com.AutomationExercise.tests.CartTests","Surefire test","com.AutomationExercise.tests.CartTests","testProductQuantityInCart"
