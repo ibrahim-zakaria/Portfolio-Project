@@ -3,7 +3,17 @@ target/
 !**/src/main/**/target/
 !**/src/test/**/target/
 .kotlin
-
+# Test execution outputs
+test-output/
+allure-results/
+allure-report/
+full-report/
+reports/
+Logs/
+screenshots/
+videos/
+executions/
+allure-history/
 ### IntelliJ IDEA ###
 .idea/
 .all
