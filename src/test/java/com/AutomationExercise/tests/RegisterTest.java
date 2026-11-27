@@ -73,7 +73,7 @@ public class RegisterTest extends BaseTest {
                 .verifyAccountDeleted();
     }
 
-    @Test(description = "Test Case 5: Register User with existing email", groups={"jenkins"})
+    @Test(description = "Test Case 5: Register User with existing email", groups={"test-Group"})
     public void registerTest() {
         AccountData accountData = createTestUser();
         new NavigationComponent(getDriver())

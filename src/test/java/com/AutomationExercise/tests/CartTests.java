@@ -41,7 +41,7 @@ public class CartTests extends BaseTest {
 
     }
 
-    @Test(description = "Test Case 13: Verify Product quantity in Cart", groups="jenkins")
+    @Test(description = "Test Case 13: Verify Product quantity in Cart", groups="test-Group")
     public void testProductQuantityInCart() {
         new NavigationComponent(getDriver())
                 .navigateToHomePage()
